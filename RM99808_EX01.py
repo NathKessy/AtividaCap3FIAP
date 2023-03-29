@@ -21,9 +21,9 @@ def validaPlano(planoSelecionado, faturamentoAnual):
     elif (planoSelecionado == 4):
         calculaPlano = faturamentoAnual * 0.05
     else:
-        print("")
+        print ("")
         print ("**** INSIRA UM PLANO VALIDO ****")
-        print("")
+        print ("")
     
     return calculaPlano;
 
