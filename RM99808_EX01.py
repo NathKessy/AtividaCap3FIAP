@@ -53,6 +53,5 @@ def exec():
             isValido = False
     print ("A porcetagem sobre o faturamento do seu plano é de R$ {}.".format(calculaPlano))
 
-
 #Iniciando Programa
 exec()
