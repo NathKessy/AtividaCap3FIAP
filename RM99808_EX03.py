@@ -44,5 +44,6 @@ def exec():
     cabecalho("JoWell Sant’ana")
     validaMedia()
 
+#Iniciando Programa
 exec()
 
